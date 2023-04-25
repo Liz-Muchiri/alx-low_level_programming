@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
-  * print_to_98 - Prints all natural numbers from 0 to 98
+  * print_to_98 - Prints all natural numbers from n to 98
   * on: The number to start printing from
-  * Return: Always 0,
+  * Return: Always 0.
   */
 
 void print_to_98(int n)
@@ -13,7 +13,7 @@ void print_to_98(int n)
 {
 	if (n <= 98)
 	{
-	if (n <= 98; n++)
+	for (n <= 98; n++)
 	{
 	printf("%d", n);
 	printf("\n");
